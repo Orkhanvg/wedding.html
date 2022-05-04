@@ -1,0 +1,75 @@
+div {
+    box-shadow: 1px 1px 1px 1px #888888;
+    width: 350px;
+    height: 450px;
+    border: .5px solid gray ;
+    padding: 80px;
+    margin: 20px;
+  }
+
+.main{
+    background-color: rgb(255, 255, 255) ;
+    box-sizing: content-box;
+    line-height: 30px;
+    text-align: center;
+    line-height: 0.4;
+}
+
+.main h1{
+    font-family: 'Passions Conflict', cursive;
+    /* text-shadow: 4mm; */
+    font-size: 80px;
+    line-height: .9;
+    transform: rotate(-20deg);
+    font-weight: normal;
+    gap: 15px;
+    letter-spacing: 5px;
+
+}
+
+#couple{
+    font-family: 'Allerta', sans-serif;
+    font-size:15px ;
+    line-height: 1.6;
+    gap: 60px;
+    letter-spacing: 2px;
+}
+
+#invatation{
+    font-family: 'Allerta', sans-serif;
+    text-size-adjust: 1px;
+    font-size: 11px;
+    line-height: 1.6;
+    letter-spacing: 2px;
+    
+}
+
+#date{
+    font-family: 'Allerta', sans-serif;
+    font-size:15px ;
+    line-height: 0.01;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+#time{
+    font-family: 'Allerta', sans-serif;
+    font-size:15px ;
+    line-height: 1.6;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+#location{
+    font-family: 'Noto Sans', sans-serif;   
+    font-size: 11px;
+    line-height: 1.6;
+    letter-spacing: 2px;
+    
+}
+
+#direction{
+    font-family: 'Charm', cursive;
+font-style: oblique;
+letter-spacing: 2px;
+}
